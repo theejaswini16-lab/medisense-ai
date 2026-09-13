@@ -1,0 +1,6 @@
+{
+  "name": "MediSense AI",
+  "description": "Next-generation AI-powered early disease detection platform for rural communities featuring interactive body symptom analysis and diagnostic dashboards.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
